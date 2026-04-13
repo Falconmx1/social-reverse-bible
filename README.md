@@ -30,3 +30,10 @@ This repository is for educational purposes only. Do not use this knowledge for 
 
 ## 🤝 Contributions
 Feel free to contribute, improve content, or add new research.
+
+## 📂 Project Structure
+
+- /social-engineering → Human hacking techniques
+- /reverse-engineering → Software analysis
+- /case-studies → Real-world attacks
+- /resources → Tools, books, learning material
